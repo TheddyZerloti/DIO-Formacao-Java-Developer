@@ -33,3 +33,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Multiplicação Simples [ver aqui](./MultiplicacaoSimples/MultiplicacaoSimples.java)
 - Soma Simples [ver aqui](./SomaSimples/SomaSimples.java)
 - Média 1 [ver aqui](./Media1/Media1.java)
+
+### Resolvendo desafios - Escopo e Estruturas de Controle em Java
+
+- Pedra, Papel, Ataque Aéreo [ver aqui](./PedraPapelAtaqueAereo/PedraPapelAtaqueAereo.java)
+- Entrada e Saída Lendo e Pulando Nomes [ver aqui](./EntradaSaidaLendoEPulandoNomes/EntradaSaidaLendoEPulandoNomes.java)
+- Mjölnir [ver aqui](./Mjolnir/Mjolnir.java)
